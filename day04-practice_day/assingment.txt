@@ -1,0 +1,56 @@
+This assignment was generated with the help of ChatGPT, but I completed it using my previous learnin 
+and understanding. After submitting my code, I scored 9 out of 10. Later, 
+I fixed a few minor mistakes such as proper spacing, spelling errors, and 
+removed unnecessary lines to improve the overall quality of the work.
+
+
+
+My Learning Reset Journey
+
+(this is the BIGGEST heading on the page)
+
+My Learning Struggles
+
+(slightly smaller heading)
+
+I tried learning many things in the past but I could not stay consistent. (STAY CONSISTANT HIGHLIGHT)
+Sometimes I felt confused and sometimes I felt lost, but I never fully stopped trying.
+
+My New Disciplined Plan
+
+(same size as the previous section heading)
+
+Now I have decided to follow one clear path with daily focus and patience.
+This time my goal is to move slowly but strongly and build my foundation step by step. (STRONGLY EMPHASIZED)
+
+────────────────────────
+(a horizontal dividing line across the page)
+────────────────────────
+
+Things I Tried Earlier
+(normal text heading or label)
+
+• C programming
+• Python basics
+• Java fundamentals
+• Web development (on and off)
+
+My New Daily Routine
+
+A. Revise previous topics
+B. Practice by writing code
+C. Learn one small new concept
+D. Commit progress to GitHub
+
+My Learning Roadmap
+
+HTML
+  – Basics
+  – Lists
+
+CSS
+  – Colors
+  – Layout
+
+(Bonus line at the bottom)
+2² = 4 or CO₂ is essential for life.
