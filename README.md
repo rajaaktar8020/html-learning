@@ -6,5 +6,6 @@ This repository contains my daily HTML5 learning & practice files.
 - Day 2: HTML Text Formatting { p, b, strong, em, i, u, br, hr }
 - Day 3: HTML Lists {ul, ol, li, nested lists, ol type, start attribute, dl, dt, dd }
 - Day 4: Practice Day - HTML Structure, Text Formatting, Lists {Day 1 to Day 3}
+- Day 5: HTML Links & Images { Anchor Tag, Image Tag, Relative Paths, File Structure }
 
 Learning step by step 💪
