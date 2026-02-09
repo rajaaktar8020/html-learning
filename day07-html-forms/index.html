@@ -1,0 +1,56 @@
+<!-- Day 7: Learning & Practice -->
+<!-- Topics: Forms, Input Types, Labels, Buttons, Basic Validation -->
+
+<!-- boilerplate code  -->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+ </head>
+ <body>
+    <!-- learning form  label, input types, action,  method,  id, class, required, name, value  -->
+    <form action="#" method="post">
+            <label for="name"> Name:</label>
+            <input id="name" type="text" name="username" placeholder="Aktar Raja" /><br><br>
+            <label for="email">Email:</label>
+            <input id="email" type="email" name="email" placeholder="xyz@gmail.com" required /><br><br>
+            <label for="Pass">Password:</label>
+            <input id="Pass" type="password" name="password" placeholder="Enter password" required /><br><br> 
+            <label for="terms"><input id="terms" type="checkbox" name="checking" required />Accept Terms</label> <br><br>
+            <label for="sound">Sound:</label>
+            <input id="sound" name="sound" type="range" value="70" /><br><br>
+            <fieldset> <legend>Gender</legend>
+            <label for="male">
+               <input id="male" class="gender" type="radio" name="gender" value="Male" />Male
+            </label>
+            <label for="female">
+               <input id="female" class="gender" type="radio" name="gender" value="Female" />Female
+            </label>
+            <label for="others">
+               <input id="others" class="gender" type="radio" name="gender" value="Others" />Others
+            </label>
+            </fieldset>
+            <br><br>
+            <label for="colour">Colour:</label>
+            <input type="color" name="colour" id="colour" /> <br><br>
+            <label for="sub">Choose Subject</label>
+            <select name="subject" id="sub">
+              <option  value="geography">Geo</option>
+              <option value="biology">Bio</option>
+              <option value="bengali">Ben</option>
+            </select> <br><br>
+            <label for="time">Date & Time</label>
+            <input type="datetime-local" name="time" id="time" /> <br><br>
+            <label for="file">Upload birth certificate:</label>
+            <input id="file" name="fime" value="birth" type="file" required> <br><br>
+            <label for="txt">Feedback:</label>
+            <textarea name="txt" id="txt" rows="8" cols="60"></textarea> <br><br>
+            <input type="submit" value="Submit Form" /> <br><br>
+            <label for="search">Search:</label>
+            <input id="search" type="search" name="search" placeholder="Search" /> 
+          </form>
+          <!-- I'm also learn that we can use same class name for different parts but we can't use id , id is unique , not used for multiple parts  -->
+ </body>
+ </html>
