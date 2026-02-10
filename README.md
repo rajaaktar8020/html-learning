@@ -9,5 +9,6 @@ This repository contains my daily HTML5 learning & practice files.
 - Day 5: HTML Links & Images { Anchor Tag, Image Tag, Relative Paths, File Structure }
 - Day 6: Tables, Semantic HTML { header, main, section, article, aside, footer }
 - Day 7: HTML Forms { Forms, Input Types, Labels, Buttons, Basic Validation }
+- day 8: Practice Day - HTML Structure,  Links, Forms, Lists, Semantic Tags (Day 1–Day 7)
 
 Learning step by step 💪
