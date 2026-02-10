@@ -1,0 +1,114 @@
+<!-- Day 8: Revision Practice -->
+<!-- Topics: HTML Structure,  Links, Forms, Lists, Semantic Tags (Day 1–Day 7) -->
+
+<!--Boilerplate Code-->
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Students Resource Hub</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon"
+        href="https://images-platform.99static.com/HJ5Z_sXYndxgdcne38cueFMDg1k=/500x500/top/smart/99designs-contests-attachments/25/25553/attachment_25553120"
+        type="image/x-icon" />
+</head>
+
+<body>
+    <header>
+        <h1>Students Resources Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Notes</a></li>
+                <li><a href="#">Videos</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Books Available</h2>
+            <ul>
+                <li>
+                    <h3>Coding</h3>
+                    <ol>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JS</li>
+                    </ol>
+                </li>
+                <li>
+                    <h3>Science Stream</h3>
+                    <ol>
+                        <li>MATH</li>
+                        <li>CHEMISTRY</li>
+                        <li>PHYSICS</li>
+                        <li>BIOLOGY</li>
+                    </ol>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>FAQS</h2>
+            <dl>
+                <dt>What is HTML?</dt>
+                <dd>
+                    HTML (HyperText Markup Language) is the standard, foundational
+                    markup language used to structure and display content on the web,
+                    including text, images, and links
+                </dd>
+                <dt>Why learn HTML?</dt>
+                <dd>HTML can help you build your own unique website</dd>
+            </dl>
+        </section>
+        <section>
+            <h2>Feedback Form</h2>
+            <form action="#" method="post">
+                <label for="name">Name:</label>
+                <input id="name" name="name" type="text" placeholder="Name" />
+                <label for="email">Email:</label>
+                <input id="email" name="email" type="email" placeholder="Email" required />
+                <br /><br />
+                <fieldset>
+                    <legend>About Yourself</legend>
+                    <textarea name="feedback" id="feedback" rows="10" cols="50"
+                        placeholder="Write About Yourself in 50 Words" required></textarea>
+                </fieldset>
+                <label for="gender">Gender:</label>
+                <label for="male">
+                    <input class="gender" id="male" type="radio" name="gender" value="Male" required />Male
+                </label>
+                <label for="female">
+                    <input class="gender" id="female" type="radio" name="gender" value="Female" required />Female
+                </label>
+                <label for="others">
+                    <input class="gender" id="others" type="radio" name="gender" value="Others" required />Others
+                </label>
+                <br /><br />
+                <label>
+                    <input type="checkbox" required />I hereby declare is a formal, legally
+                    binding phrase used to certify that information provided in documents,
+                    applications, or resumes is true, accurate, and complete to the best
+                    of one's knowledge.
+                </label>
+                <br /><br />
+                <input type="submit" />
+            </form>
+        </section>
+    </main>
+    <hr>
+    <footer>
+        <h3>Students Resources Hub</h3>
+        <h4>Contact</h4>
+        <p>Call: <a href="tel:0978XXX865">0978XXX865</a></p>
+        <p>Email: <a href="mailto:help.support@gmail.com">help.support@gmail.com</a></p>
+        <hr>
+        <p>
+            Students Resources Hub &copy; 2026 | Made with &hearts; to support students
+        </p>
+    </footer>
+</body>
+
+</html>
