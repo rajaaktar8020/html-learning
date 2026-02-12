@@ -11,5 +11,5 @@ This repository contains my daily HTML5 learning & practice files.
 - Day 7: HTML Forms { Forms, Input Types, Labels, Buttons, Basic Validation }
 - Day 8: Practice Day - HTML Structure,  Links, Forms, Lists, Semantic Tags (Day 1–Day 7)
 - Day 9: HTML Multimedia Tags { (Audio, Video, Iframe) also Details-Summary, Progress, Meter }
-
+- Day 10:HTML Project - Personal Resume 
 Learning step by step 💪
